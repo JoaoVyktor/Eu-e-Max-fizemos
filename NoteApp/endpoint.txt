@@ -1,0 +1,23 @@
+notes
+/notes/
+- get
+- post
+  {
+    "title": "",
+    "description": "",
+    "create_at": "",
+    "create_by": "",
+    "priority": ""
+  }
+
+/notes/{id}
+  - get
+  - delete
+  - put
+  {
+    "title": "",
+    "description": "",
+    "create_at": "",
+    "create_by": "",
+    "priority": ""
+  }
